@@ -1,0 +1,2 @@
+https://github.com/nagarajAI/git-demo
+https://github.com/nagarajAI/simple-java-maven-app
